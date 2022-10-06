@@ -1,0 +1,1 @@
+Simple rust cli program to check weather in different cities.
